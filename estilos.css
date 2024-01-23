@@ -1,4 +1,53 @@
+/* estilos.css */
+
+/* Estilos para el cuerpo de la página */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f2f2f2;
+}
+
+/* Clase para los artículos en las páginas HTML */
+.article {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+/* Clase para los títulos de los artículos */
+.article h2 {
+    color: #333;
+}
+
+/* Clase para los enlaces en la barra de navegación */
+nav a {
+    text-decoration: none;
+    color: #0066cc;
+    margin-right: 10px;
+}
+
+/* Identificador para el encabezado de la página */
+#header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+/* Clase para los enlaces en el encabezado de la página */
+#header a {
+    color: #fff;
+    margin-right: 20px;
+}
+
+/* Clase para los enlaces en los artículos */
+.article a {
+    color: #0066cc;
+}
+
 /* Estilos generales */
+
+
+
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
