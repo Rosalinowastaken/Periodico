@@ -1,0 +1,40 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* Estilos para los artículos en HTML */
+.article {
+    border: 2px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.article h2 {
+    color: #333;
+}
+
+.article p {
+    color: #555;
+}
+
+/* Estilos específicos para el artículo de sociedad.html */
+#sociedad .article {
+    background-color: #333;
+    color: #fff;
+}
+
+/* Estilos específicos para el artículo de internacional.html */
+#internacional .article {
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Estilos específicos para el artículo de economia.html */
+#economia .article {
+    background-color: #ffe4b5;
+    color: #333;
+}
+ 
